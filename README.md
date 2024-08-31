@@ -1,5 +1,5 @@
 
-![37-facts-about-ulaanbaatar-1688456709](https://github.com/user-attachments/assets/39e8e0ac-1bd9-4713-8d87-7e9d1811016d)
+![ulaanbaatar-mongolia-skyline-2](https://github.com/user-attachments/assets/b5f6ec35-703b-48b1-a2d0-925727005160)
 
 -  Hi, I’m @Uunii My full name is Unubold and I am from Mongolia
 - 👀 I’m interested in Technologies such as Computers and Smartphones
