@@ -1,5 +1,5 @@
 
-![ulaanbaatar-mongolia-skyline-2](https://github.com/user-attachments/assets/b5f6ec35-703b-48b1-a2d0-925727005160)
+![wallpaperflare com_wallpaper](https://github.com/user-attachments/assets/979255f9-7bb0-4d0f-a565-92c96b8fcf18)
 
 -  Hi, I’m @Uunii My full name is Unubold and I am from Mongolia
 - 👀 I’m interested in Technologies such as Computers and Smartphones
