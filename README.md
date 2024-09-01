@@ -8,7 +8,7 @@
 - Check out my social accounts by clicking below
 
     [ ![1384063](https://github.com/user-attachments/assets/6d4eb122-2029-4d99-9241-61e01095f81e)](https://www.instagram.com/uuniiluu/) 
-    [![facebook-logo-vector-eps-file-squared-coloured-easily-editable-have-white-background-high-resolution-255557233](https://github.com/user-attachments/assets/2afdc898-fc6c-4b93-9d81-590307ba7056)](https://www.facebook.com/profile.php?id=100090448646051) [![Discord-Logo](https://github.com/user-attachments/assets/9fcdebaa-d153-4607-909e-2760b168bc76)](https://discordapp.com/users/498831172365713417) [![Steam_icon_logo svg](https://github.com/user-attachments/assets/a5629c74-3dd8-4707-90fc-93cf7e66b356)](https://steamcommunity.com/profiles/76561198310202126/)
+    [![Steam_icon_logo svg](https://github.com/user-attachments/assets/a5629c74-3dd8-4707-90fc-93cf7e66b356)](https://steamcommunity.com/profiles/76561198310202126/)  [![Discord-Logo](https://github.com/user-attachments/assets/9fcdebaa-d153-4607-909e-2760b168bc76)](https://discordapp.com/users/498831172365713417)  [![facebook-logo-vector-eps-file-squared-coloured-easily-editable-have-white-background-high-resolution-255557233](https://github.com/user-attachments/assets/2afdc898-fc6c-4b93-9d81-590307ba7056)](https://www.facebook.com/profile.php?id=100090448646051) 
 
 
 
