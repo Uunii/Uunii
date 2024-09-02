@@ -5,6 +5,7 @@
 - 👀 I’m interested in Technologies such as Computers and Smartphones
 - 🌱 I’m currently learning Industrial Information Technology at LAB
 - 📫 How to reach me +358 0413689704
+- School Email : Unubold.Luvsandagva@student.lab.fi
 - Check out my social accounts by clicking below
 
     [ ![1384063](https://github.com/user-attachments/assets/6d4eb122-2029-4d99-9241-61e01095f81e)](https://www.instagram.com/uuniiluu/) 
