@@ -14,7 +14,7 @@
 
 
 
-- ⚡ I love video games, It has been part of my life since i was 5.
+- ⚡ I love Computers, It has been part of my life since i was 5.
 <!---
 
 https://www.instagram.com/uuniiluu/
