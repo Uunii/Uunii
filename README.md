@@ -12,7 +12,7 @@ I am a former **Civil Engineer** (MUST, 2018-2021) currently pivoting into the t
 ## 🛠️ My Journey
 * **Civil Engineering:** Mongolian University of Science and Technology (2018 - 2021)
 * **Industrial IT:** LAB University of Applied Sciences, Finland (2024 - Present)
-* 
+
 ---
 
 ## 📬 Connect with Me
