@@ -4,7 +4,9 @@
 ![wallpaperflare com_wallpaper](https://github.com/user-attachments/assets/979255f9-7bb0-4d0f-a565-92c96b8fcf18)
 
 - 👷 Civil Engineer at Mongolian University of Science and Technology (2018 - 2021)
+
 - 🌱 Currently studying as Industrial Information Technology Engineer at LAB University of Applied Science (Finland) (2024 - present)
+
 - 📫 How to reach me +358 0413689704
 - School Email : Unubold.Luvsandagva@student.lab.fi
 - Or clicking below
