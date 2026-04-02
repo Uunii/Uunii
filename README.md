@@ -27,6 +27,3 @@ I am a former **Civil Engineer** (MUST, 2018-2021) currently pivoting into the t
 | **Phone** | +358 0413689704 |
 
 ---
-
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Uunii&show_icons=true&theme=radical)
