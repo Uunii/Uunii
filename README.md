@@ -1,17 +1,32 @@
- 
--  Hi, I’m @Uunii My full name is Unubold and I am from Mongolia 🇲🇳
-  
-![wallpaperflare com_wallpaper](https://github.com/user-attachments/assets/979255f9-7bb0-4d0f-a565-92c96b8fcf18)
+# Hi, I’m @Uunii (Unubold) 🇲🇳
 
-- 👷 Civil Engineer at Mongolian University of Science and Technology (2018 - 2021)
+![Header Image](https://github.com/user-attachments/assets/979255f9-7bb0-4d0f-a565-92c96b8fcf18)
 
-- 🌱 Currently studying as Industrial Information Technology Engineer at LAB University of Applied Science (Finland) (2024 - present)
+## 👷 About Me
+I am a former **Civil Engineer** (MUST, 2018-2021) currently pivoting into the tech world as an **Industrial Information Technology Engineer** at **LAB University of Applied Sciences** in Finland (2024 - Present). 
 
-- 📫 How to reach me +358 0413689704
-- School Email : Unubold.Luvsandagva@student.lab.fi
+> ⚡ I love computers—they have been a part of my life since I was 5 years old.
 
-  Or clicking below
+---
 
-[![123123](https://github.com/user-attachments/assets/f8a32360-7165-4d68-85a3-b5707889a2eb)]( https://linkedin.com/in/unubold-unubold-765ba6321/)    [![Discord-Logo](https://github.com/user-attachments/assets/9fcdebaa-d153-4607-909e-2760b168bc76)](https://discordapp.com/users/498831172365713417)  [![facebook-logo-vector-eps-file-squared-coloured-easily-editable-have-white-background-high-resolution-255557233](https://github.com/user-attachments/assets/2afdc898-fc6c-4b93-9d81-590307ba7056)](https://www.facebook.com/profile.php?id=100090448646051) 
+## 🛠️ My Journey
+* **Civil Engineering:** Mongolian University of Science and Technology (2018 - 2021)
+* **Industrial IT:** LAB University of Applied Sciences, Finland (2024 - Present)
+* 
+---
 
-⚡ I love Computers, It has been part of my life since I was 5.
+## 📬 Connect with Me
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/unubold-unubold-765ba6321/) |
+| **Discord** | [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/498831172365713417) |
+| **Facebook** | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090448646051) |
+| **Personal Email** | [Uunii.Kaka@gmail.com](mailto:Uunii.Kaka@gmail.com) |
+| **School Email** | [Unubold.Luvsandagva@student.lab.fi](mailto:Unubold.Luvsandagva@student.lab.fi) |
+| **Phone** | +358 0413689704 |
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Uunii&show_icons=true&theme=radical)
