@@ -1,4 +1,4 @@
-# Hey, I'm Unubold (Uunii) 🇲🇳 — but you can just call me Uni
+# Hey, I'm Unubold (Uunii) 🇲🇳
 
 ![Header Image](https://github.com/user-attachments/assets/979255f9-7bb0-4d0f-a565-92c96b8fcf18)
 
