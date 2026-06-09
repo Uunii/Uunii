@@ -23,6 +23,7 @@ Why the switch? Computers have been my thing since I was a kid — I just finall
 | 🌤️ **Weather Station** | Pico W + sensors → MQTT → Home Assistant + custom frontend | MicroPython, MQTT, Home Assistant |
 | 📅 **Booking System** | Full-stack calendar app with user auth & DB | React, MySQL, Node.js |
 | 🐳 **Virtualization Lab** | Containers, VMs, the whole deal | Docker, Podman, Oracle VM |
+| And many other School Projects, maybe no need to mention all of them here |
 
 ---
 
